@@ -52,4 +52,4 @@ This project is open source, and you can contribute in various ways. Feel free t
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me.
 
-Thank you for visiting my repository! 
+Thank you for visiting my repository!
