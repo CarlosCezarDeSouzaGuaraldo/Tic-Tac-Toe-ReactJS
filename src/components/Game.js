@@ -46,7 +46,7 @@ const Game = () => {
 						/>
 					</div>
 					<div className="col-3">
-						<p className="m-0 text-center fw-bold text-uppercase">Historic</p>
+						<p className="mb-5 text-center fw-bold text-uppercase">Historic</p>
 						<ul className="list-group">{moves}</ul>
 					</div>
 				</div>

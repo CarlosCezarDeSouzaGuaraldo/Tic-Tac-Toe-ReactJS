@@ -39,8 +39,8 @@ const Board = ({ xIsNext, squares, onPlay }) => {
 	return (
 		<>
 			<div className="container">
-				<div className="row justify-content-center">
-					<div className="col-auto">
+				<div className={`row justify-content-center ${!winner ? 'mb-5' : ''}`}>
+					<div className={`col-auto ${winner ? 'alert alert-success' : ''}`}>
 						{status}
 					</div>
 				</div>
